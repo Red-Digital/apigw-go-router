@@ -1,4 +1,4 @@
-module github.com/onetwentyseven-dev/apigw
+module github.com/Red-Digital/apigw-go-router
 
 go 1.19
 
